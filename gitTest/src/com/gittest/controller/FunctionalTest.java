@@ -19,4 +19,7 @@ public class FunctionalTest {
 	public double getHeight() {
 		return 18.5;
 	}
+	public String geString() {
+		return "바보";
+	}
 }

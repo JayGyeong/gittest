@@ -16,4 +16,7 @@ public class FunctionalTest {
 		return 19;
 
 	}
+	public double getHeight() {
+		return 18.5;
+	}
 }
